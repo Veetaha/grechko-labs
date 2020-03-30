@@ -33,3 +33,4 @@ services:
 networks:
   database:
     driver: bridge
+ type, name, surname, address, password_hash, patronymic, email, passport_id , taxes_card_i,
